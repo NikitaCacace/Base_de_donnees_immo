@@ -23,7 +23,7 @@ Les données :
 - DataImmo_mutation.csv = fichier contenant les ventes des biens
 
 Les fichiers:
-- Scripte SQL = scripte SQL ayant servit à la création de la base de données
+- P3_Scripte_SQL = scripte SQL ayant servit à la création de la base de données
 - MCD = Modèle conceptuel des données
 - Schema_relationnel = Schema relationnel normalisé UML
 - Requêtes = exemples de requêtes avec leur résultat sur la base de donnée
